@@ -1,7 +1,6 @@
 ### [alifdrivebot](https://telegram.dog/alifdrivebot)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/adnanmuhammedkundukara
-/alifdrivebot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/adnanmuhammedkundukara/alifdrivebot?style=social)
 <img src="https://img.shields.io/github/forks/adnanmuhammedkundukara
 /alifdrivebot?style=social"></img>
 #### Deploy To Heroku
@@ -37,7 +36,6 @@ Check [`sample_info.py`](sample_info.py) before editing [`Config.py`](Config.py)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
 
 #### Optional Variables
-* `OMDB_API_KEY`: OMBD_API_KEY to generate imdb poster for filter results.Get it from [omdbapi.com](http://www.omdbapi.com/apikey.aspx)
 * `CUSTOM_FILE_CAPTION` : A custom caption for your files. You can format it with file_name, file_size, file_caption.(supports html formating)
 Example: `<b>Join [ALIF Bots](https://t.me/ALIFDRIVE) for more useful bots</b>\n\n<code>{file_name}</code>\nSize{file_size}\n{file_caption}.`
 * `AUTH_GROUPS` : ID of groups which bot should work as autofilter, bot can only work in thease groups. If not given , bot can be used in any group.
