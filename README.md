@@ -54,7 +54,7 @@ Example: `<b>Join [ALIF Bots](https://t.me/ALIFDRIVE) for more useful bots</b>\n
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
-* [Editing Muhammed Adnan K ](https://github.com/)adnanmuhammedkundukara/alifdrivebot)
+* [Editing Muhammed Adnan K ](https://github.com/adnanmuhammedkundukara/alifdrivebot)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
