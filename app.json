@@ -1,5 +1,5 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "alifdrivebot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -56,11 +56,7 @@
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
             "required": false
-        },
-        "OMDB_API_KEY": {
-            "description": "Your OMBD API KEY, Fill if you want to generate a imdb poster of movie in autofilter.",
-            "value": "",
-            "required": false
+        
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
